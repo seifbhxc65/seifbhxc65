@@ -1,6 +1,7 @@
 - 👋 Hi, I’m seif belhaj
 - 👀 I’m interested in backend/devops 🧑‍💻⚒️
-- 🌱 I’m currently learning Cloud engineering
+- 👨🏻‍💻 Google Associate Cloud Engineer Certified 📜🏅☁️☁️
+- 🌱 I’m currently learning devops engineering 🚀
 - 📫 How to reach me saif40340@gmail.com
 
 <!---
