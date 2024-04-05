@@ -17,11 +17,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Aws, Java, Kubernetes, Devops & Infrastructure, Knowledge graph management**
+- 🔭 I’m currently working on **Aws, Java, Kubernetes, Devops & Infrastructure**
   
 - ☁️<a href="https://www.credential.net/cea0a1d1-6a5c-441c-84f5-c24140003d28"> **Google Cloud Associate cloud Engineer & Aws Cloud Practitioner Certified**</a>
   
-- 🌱 I’m currently learning **Aws, Data engineering & Infrastructure in the cloud, Infra As Code**
+- 🌱 I’m currently learning **Aws, Data engineering & Infrastructure in the cloud, Infra As Code, Knowledge graph management**
 
 - 📫 Feel free to reach me out **Seifedine.belhaj@gmail.com**
 <!--Intro end-->
