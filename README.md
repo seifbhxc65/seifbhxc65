@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes,ansible,docker,devops,java,javascript,git,linux,mongodb,mysql,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes,ansible,docker,java,javascript,git,linux,mongodb,mysql,postman&perline=14" />
   </a>
 </p>
 
