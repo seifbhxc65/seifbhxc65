@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Aws, Java, Kubernetes, Devops & Infrastructure**
+- 🔭 I’m currently working on **Aws, Java, Kubernetes, Devops & Infrastructure, Knowledge graph management**
   
 - ☁️<a href="https://www.credential.net/cea0a1d1-6a5c-441c-84f5-c24140003d28"> **Google Cloud Associate cloud Engineer & Aws Cloud Practitioner Certified**</a>
   
